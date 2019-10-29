@@ -1,0 +1,5 @@
+pyvisa
+quantiphy
+wavedrom
+rigol1000z
+matplotlib
